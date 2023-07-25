@@ -14,3 +14,7 @@
 // let nomeCompleto = {nome: "Alessandro", idade: 31} // esse dado é um objeto
 
 // console.log(typeof nomeCompleto)
+/**comentario
+ * de varias
+ * linhas
+ */
