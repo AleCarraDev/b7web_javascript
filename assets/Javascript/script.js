@@ -1,4 +1,4 @@
-// alert("Olá mundo")
+let nome = "Alessandro"
+let idade = 31
 
-
-console.log("Olá mundo 3.0")
+console.log( nome + " " + idade )
