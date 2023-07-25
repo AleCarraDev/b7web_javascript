@@ -23,16 +23,18 @@
 
 // 3 formas de criar variáveis
 
-let nome = "alessandro";
-nome = "joão"
-console.log(nome)
+// let nome = "alessandro";
+// nome = "joão"
+// console.log(nome)
 
-var nome2 = "alessandro2";
-nome2 = "joao2";
-console.log(nome2)
+// var nome2 = "alessandro2";
+// nome2 = "joao2";
+// console.log(nome2)
 
 
-const nome3 = "alessandro3";
-console.log(nome3)
-nome3 ="joao3"
-console.log(nome3)
+// const nome3 = "alessandro3";
+// console.log(nome3)
+// nome3 ="joao3"
+// console.log(nome3)
+
+
