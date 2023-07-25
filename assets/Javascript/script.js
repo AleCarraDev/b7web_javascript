@@ -1,20 +1,17 @@
-// let nome = "Alessandro"
-// let idade = 31
-// let cidade = "Rio de janeiro"
-// let estado = "Rio de janeiro"
+// 1. Crie uma variável para armazenar o nome
+// do carro e ponha o valor Ferrari. E exiba-a
+let carro = "Ferrari"
 
-// console.log( cidade + " " + estado )
+// 2. Crie uma variável para armazenar o preço do bolo,
+// que custa R$19,99. E exiba-a
+ let valorBolo = 19.99 // "R$ 19,99" utilizei como variável pois quis exibir o cifrão
 
-// tipos de dados aula 6
 
-// let nome = "Alessandro" // Esse dado chama-se "string"
-// let idade = 31 // esse dado chama-se "number"
-// let deslogado = false // esse dado é um booleano
-// let lista = ["arroz", "feijão", "carne", "vegetais"] // esse dado é um array
-// let nomeCompleto = {nome: "Alessandro", idade: 31} // esse dado é um objeto
+// 3. Corrija o código a segue (e exiba-o).
+// let "cidade" = São Paulo
+let cidade = "São Paulo"
 
-// console.log(typeof nomeCompleto)
-/**comentario
- * de varias
- * linhas
- */
+
+console.log(carro)
+console.log(valorBolo)
+console.log(cidade)
